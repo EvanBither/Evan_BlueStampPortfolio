@@ -37,6 +37,9 @@ For your first milestone, describe what your project is and how you plan to buil
 - Technical progress you've made so far
 - Challenges you're facing and solving in your future milestones
 - What your plan is to complete your project
+# Starter Project
+  My starter project was a digital clock that displays the accurate time, date, and temperature of the room. The clock is powered by a 3 volt battery that allows the internal mechanisms to keep track of the time and date, but the display is powered by a micro usb cord. The clock sits in a clear box that allows the user to press the two operational buttons that control the display. In order to assemble this project, I needed to solder over 30 components and make sure they were in their correct sports and solder correctly so that there were no electrical shorts. While building my project, it took me many attempts to soder every component correctly, and get the clock to work as intended. This project taught me how to solder correctly, and how to de-solder when necessary. I have learned how to stay organized, manage my time effeciently, and when to ask for help.
+
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
