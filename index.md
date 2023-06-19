@@ -61,16 +61,14 @@ void loop() {
 ```
 
 # Bill of Materials
-Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
-Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
 
-| **Part** | **Note** | **Price** | **Link** |
-|Camera Case for Raspberry Pi zero| this is used as the case that holds the raspberry pi module and the camera|$9.95|<https://www.pishop.us/product/camera-case-for-raspberry-pi-zero-updated-for-v3/>|
-| Raspberry Pi Camera Module| This captures pictures at 1080p 30fps and relays the information to the raspberry pi controll board.| $25| <https://chicagodist.com/products/raspberry-pi-camera?src=raspberrypi>|
+
+|Camera Case for Raspberry Pi zero| This is used as the case that holds the raspberry pi module and the camera|$9.95|<https://www.pishop.us/product/camera-case-for-raspberry-pi-zero-updated-for-v3/>|
+| Raspberry Pi Camera Module| This captures pictures at 1080p 30fps and relays the information to the raspberry pi control board.| $25| <https://chicagodist.com/products/raspberry-pi-camera?src=raspberrypi>|
 |Rii RKM709 2.4 Gigahertz Ultra-Slim Wireless Keyboard and Mouse Combo|Mouse and Keyboard to program the camera and use my omputer|$18.99 |<https://www.amazon.com/Rii-Ultra-slim-Wireless-Multimedia-Raspberry/dp/B07BF3LFN3>|
-| HDMI Video Capture Card| This is a converter that converts HDMI to USB, so it can be used on computers without HDMI ports  | $16.98 | [<a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/">  |
-|Raspberry Pi 3 Power Supply|this supplies the camera with power via a microusb port, and connect to a wall outlet|$9.95|<https://www.canakit.com/raspberry-pi-adapter-power-supply-2-5a.html>|
-|HDMI to Mini HDMI Cable|This cable connects to the mni HDMI port on the camera box to the HDMI port on the adapter| $7.59 | <https://www.amazon.com/AmazonBasics-High-Speed-Mini-HDMI-Adapter-Cable/dp/B014I8UEGY> |
+| HDMI Video Capture Card| This is a converter that converts HDMI to USB so that it can be used on computers without HDMI ports  | $16.98 | [<a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/">  |
+|Raspberry Pi 3 Power Supply| This supplies the camera with power via a micro USB port, and connects to a wall outlet|$9.95|<https://www.canakit.com/raspberry-pi-adapter-power-supply-2-5a.html>|
+|HDMI to Mini HDMI Cable|This cable connects the mini HDMI port on the camera box to the HDMI port on the adapter| $7.59 | <https://www.amazon.com/AmazonBasics-High-Speed-Mini-HDMI-Adapter-Cable/dp/B014I8UEGY> |
 
 
 # Other Resources/Examples
