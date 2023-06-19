@@ -5,11 +5,11 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 |:--:|:--:|:--:|:--:|
 | Evan B | Burlingame High School | Data Engineering | Incoming Senior
 
-<--**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**-->
+<!--**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**-->
 
-![Headstone Image](logo.svg)
+<!--![Headstone Image](logo.svg)
   
-<--# Final Milestone
+<!--# Final Milestone
 For your final milestone, explain the outcome of your project. Key details to include are:
 - What you've accomplished since your previous milestone
 - What your biggest challenges and triumphs were at BSE
@@ -39,7 +39,7 @@ My first milestone was completing the construction of my main project. I have fi
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d2xeVi4H5YE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/d2xeVi4H5YE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
@@ -59,6 +59,7 @@ void loop() {
 
 }
 ```
+-->
 
 # Bill of Materials
 
@@ -71,10 +72,10 @@ void loop() {
 |HDMI to Mini HDMI Cable|This cable connects the mini HDMI port on the camera box to the HDMI port on the adapter| $7.59 | <https://www.amazon.com/AmazonBasics-High-Speed-Mini-HDMI-Adapter-Cable/dp/B014I8UEGY> |
 
 
-# Other Resources/Examples
+<!--# Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
 - [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
 - [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
 - [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
 
-To watch the BSE tutorial on how to create a portfolio, click here. -->
+To watch the BSE tutorial on how to create a portfolio, click here. 
