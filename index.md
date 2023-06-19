@@ -65,10 +65,15 @@ void loop() {
 
 
 |Camera Case for Raspberry Pi zero| This is used as the case that holds the raspberry pi module and the camera|$9.95|<https://www.pishop.us/product/camera-case-for-raspberry-pi-zero-updated-for-v3/>|
+
 | Raspberry Pi Camera Module| This captures pictures at 1080p 30fps and relays the information to the raspberry pi control board.| $25| <https://chicagodist.com/products/raspberry-pi-camera?src=raspberrypi>|
-|Rii RKM709 2.4 Gigahertz Ultra-Slim Wireless Keyboard and Mouse Combo|Mouse and Keyboard to program the camera and use my omputer|$18.99 |<https://www.amazon.com/Rii-Ultra-slim-Wireless-Multimedia-Raspberry/dp/B07BF3LFN3>|
+
+|Rii RKM709 2.4 Gigahertz Ultra-Slim Wireless Keyboard and Mouse Combo|Mouse and Keyboard to program the camera and use my computer|$18.99 |<https://www.amazon.com/Rii-Ultra-slim-Wireless-Multimedia-Raspberry/dp/B07BF3LFN3>|
+
 | HDMI Video Capture Card| This is a converter that converts HDMI to USB so that it can be used on computers without HDMI ports  | $16.98 | [<a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/">  |
+
 |Raspberry Pi 3 Power Supply| This supplies the camera with power via a micro USB port, and connects to a wall outlet|$9.95|<https://www.canakit.com/raspberry-pi-adapter-power-supply-2-5a.html>|
+
 |HDMI to Mini HDMI Cable|This cable connects the mini HDMI port on the camera box to the HDMI port on the adapter| $7.59 | <https://www.amazon.com/AmazonBasics-High-Speed-Mini-HDMI-Adapter-Cable/dp/B014I8UEGY> |
 
 
