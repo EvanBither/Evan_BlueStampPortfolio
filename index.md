@@ -1,5 +1,5 @@
 # Security Camera
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
+My project is a digital security camera that records live at 1080p 30fps. It uses Rasberry Pi and an HDMI connection to operate. It ca hold 64gb of video via a micro SD chip and has two micro-usb ports. The camera case is small, roughly 3x1x1 in inches. <!-- Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!-->
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
