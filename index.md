@@ -74,7 +74,7 @@ email_update_interval = 600 # sends an email only once in this time interval
 video_camera = VideoCamera(flip=True) # creates a camera object, flip vertically
 object_classifier = cv2.CascadeClassifier("models/fullbody_recognition_model.xml") # an opencv classifier
 
-# App Globals (do not edit)
+
 app = Flask(__name__)
 app.config['BASIC_AUTH_USERNAME'] = 'CHANGE_ME_USERNAME'
 app.config['BASIC_AUTH_PASSWORD'] = 'CHANGE_ME_PLEASE'
@@ -126,13 +126,12 @@ from email.MIMEMultipart import MIMEMultipart
 from email.MIMEText import MIMEText
 from email.MIMEImage import MIMEImage
 
-# Email you want to send the update from (only works with gmail)
+
 fromEmail = 'email@gmail.com'
-# You can generate an app password here to avoid storing your password in plain text
-# https://support.google.com/accounts/answer/185833?hl=en
+
 fromEmailPassword = 'password'
 
-# Email you want to send the update to
+
 toEmail = 'email2@gmail.com'
 
 def sendEmail(image):
