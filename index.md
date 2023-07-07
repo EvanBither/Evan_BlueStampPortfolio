@@ -1,5 +1,5 @@
 # Security Camera
-My project is a digital security camera that records live at 1080p 30fps. It uses Rasberry Pi and an HDMI connection to operate. It ca hold 64gb of video via a micro SD chip and has two micro-usb ports. The camera case is small, roughly 3x1x1 in inches. <!-- Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!-->
+My project is a digital security camera that records live at 1080p 30fps. It uses Rasberry Pi and an HDMI connection to operate. It can hold 64gb of video via a micro SD chip and has two micro-usb ports. The camera case is small, roughly 3x1x1 in inches. The camera detects motion within 25 feet and immediately alerts the user via an email. This email consists of a screenshot of the moment when motion was detected, as well as a green box drawn around where the presumed object was in the frame.  <!-- Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!-->
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -7,20 +7,24 @@ My project is a digital security camera that records live at 1080p 30fps. It use
 
 <!--**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**-->
 
-<!--![Headstone Image](logo.svg)
+<!---![Headstone Image](logo.svg)-->
   
-<!--# Final Milestone
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
+# Third Milestone
+<!---For your final milestone, explain the outcome of your project. Key details to include are:-->
+My third milestone was to complete the smart security camera set up. This milestone included finishing the motion detection system, and the automated email system. The project now detects movement in the direction the camera is pointed, takes a screenshot of the object that the camera decided was moving, and sends the screenshot with a box drawn around the object to my email. 
+
+The biggest challenges I faced when completing this milestone were the many instances of troubleshooting and issues with code and hardware. A lot of small problems branched out and unveiled even larger ones that took lots of time to fix. The raspberry pi's had to be swapped so that the faster ones could help me install updates quicker, but the switching between versions corrupted the SD cards and I had to restart many times. 
+
+Next, I will be adding my modifications to mr project which are to add audio to the security reports I receive. Instead of a screenshot the pi will send a short video to my email with audio too. This will be close to a ring doorbell camera without the two way audio and video. 
+<!--- What you've accomplished since your previous milestone
 - What your biggest challenges and triumphs were at BSE
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.** -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-# Second Milestone
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPb56sLVS1w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+#Second Milestone
 For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
 - Technical details of what you've accomplished and how they contribute to the final goal
 - What has been surprising about the project so far
