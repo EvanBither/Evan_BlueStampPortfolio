@@ -16,12 +16,7 @@ My third milestone was to complete the smart security camera set up. This milest
 The biggest challenges I faced when completing this milestone were the many instances of troubleshooting and issues with code and hardware. A lot of small problems branched out and unveiled even larger ones that took lots of time to fix. The raspberry pi's had to be swapped so that the faster ones could help me install updates quicker, but the switching between versions corrupted the SD cards and I had to restart many times. 
 
 Next, I will be adding my modifications to mr project which are to add audio to the security reports I receive. Instead of a screenshot the pi will send a short video to my email with audio too. This will be close to a ring doorbell camera without the two way audio and video. 
-<!--- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.** -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tPb56sLVS1w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 #Second Milestone
