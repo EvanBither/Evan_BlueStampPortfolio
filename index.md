@@ -65,7 +65,7 @@ Here's where you'll put images of your schematics. [Tinkercad](https://www.tinke
 <!--- # Code
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. -->
 Main.py
-```import cv2
+~~~import cv2
 import sys
 from mail import sendEmail
 from flask import Flask, render_template, Response
@@ -183,7 +183,7 @@ class VideoCamera(object):
         for (x, y, w, h) in objects:
             cv2.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 0), 2)
         ret, jpeg = cv2.imencode('.jpg', frame)
-        return (jpeg.tobytes(), found_objects)```
+        return (jpeg.tobytes(), found_objects)~~~
 
 
 # Bill of Materials
