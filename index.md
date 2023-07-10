@@ -62,8 +62,7 @@ My first milestone was completing the construction of my main project. I have fi
 <!---# Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. -->
 
-<!--- # Code
-Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. -->
+
 Main.py
 ~~~import cv2
 import sys
@@ -112,11 +111,13 @@ if __name__ == '__main__':
     t = threading.Thread(target=check_for_objects, args=())
     t.daemon = True
     t.start()
-    app.run(host='0.0.0.0', debug=False)```
+    app.run(host='0.0.0.0', debug=False)~~~
 
     
 Mail.py
-```import smtplib
+
+
+~~~import smtplib
 from email.MIMEMultipart import MIMEMultipart
 from email.MIMEText import MIMEText
 from email.MIMEImage import MIMEImage
@@ -142,11 +143,13 @@ def sendEmail(image):
 	smtp.starttls()
 	smtp.login(fromEmail, fromEmailPassword)
 	smtp.sendmail(fromEmail, toEmail, msgRoot.as_string())
-	smtp.quit()```
+	smtp.quit()~~~
 
- 
+
 camera.py
-```import cv2
+
+
+~~~import cv2
 from imutils.video.pivideostream import PiVideoStream
 import imutils
 import time
