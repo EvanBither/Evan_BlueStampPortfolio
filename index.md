@@ -21,7 +21,7 @@ Next, I will be adding my modifications to mr project which are to add audio to 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tPb56sLVS1w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-#Second Milestone
+# Second Milestone
 
 
 For my second milestone, I accomplished video output from my pi camera. This video was livestreamed to a website run on the Raspberry Pi. I could see the live feed on a web browser on my Raspberry Pi. When the code is run, a link to the website is added to the interpreter. On the site, the camera feed is in the top left with the title, "Raspberry Pi Security Feed".
@@ -57,9 +57,9 @@ My first milestone was completing the construction of my main project. I have fi
 
 
 
-<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/d2xeVi4H5YE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d2xeVi4H5YE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-# Schematics 
+<!---# Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. -->
 
 <!--- # Code
