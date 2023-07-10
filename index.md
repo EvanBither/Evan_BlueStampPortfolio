@@ -10,7 +10,7 @@ My project is a digital security camera that records live at 1080p 30fps. It use
 <!---![Headstone Image](logo.svg)-->
   
 # Third Milestone
-<!---For your final milestone, explain the outcome of your project. Key details to include are:-->
+
 My third milestone was to complete the smart security camera set up. This milestone included finishing the motion detection system, and the automated email system. The project now detects movement in the direction the camera is pointed, takes a screenshot of the object that the camera decided was moving, and sends the screenshot with a box drawn around the object to my email. 
 
 The biggest challenges I faced when completing this milestone were the many instances of troubleshooting and issues with code and hardware. A lot of small problems branched out and unveiled even larger ones that took lots of time to fix. The raspberry pi's had to be swapped so that the faster ones could help me install updates quicker, but the switching between versions corrupted the SD cards and I had to restart many times. 
