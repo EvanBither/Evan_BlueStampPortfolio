@@ -19,16 +19,21 @@ Next, I will be adding my modifications to mr project which are to add audio to 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tPb56sLVS1w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 #Second Milestone
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+For my second milestone, I accomplished video output from my pi camera. This video was livestreamed to a website run on the Raspberry Pi. I could see the live feed on a web browser on my Raspberry Pi. When the code is run, a link to the website is added to the interpreter. On the site, the camera feed is in the top left with the title, "Raspberry Pi Security Feed".
+
+
+What has been surprising about the project so far is how many different sources there were for problems, which made troubleshooting incredibly hard. The code has multiple classes, and being foreign to python made diagnosing errors quite hard for me. In addition, the versions of OpenCV and python were incorrect, and needed to be changed in order for the code to work. This took many installations and lots of time. Also, there was hardware that had to be switched, some camera didn't work, and the older rapsberry Pi's couldn't display the website so I had no idea that the camera was working. Unfortunately, drastically switching versions of raspberry pi's lead to corruption in the MicroSD, which meant I had to completely restart a few times.
+
+
+Before my final milestone, I need to create and fix the code that detects the movement, draws a box around the object or person, and sends me an email. After all of that is finished, I need to move it from the raspberry pi 4, to the raspberry pi zero, so that it fits in the camera case and can stand up on its own. 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qga3blWhqeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # First Milestone
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9DHfboT22uo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
