@@ -202,7 +202,7 @@ class VideoCamera(object):
 
 |Rii RKM709 2.4 Gigahertz Ultra-Slim Wireless Keyboard and Mouse Combo|Mouse and Keyboard to program the camera and use my computer|$18.99 |<https://www.amazon.com/Rii-Ultra-slim-Wireless-Multimedia-Raspberry/dp/B07BF3LFN3>|
 
-| HDMI Video Capture Card| This is a converter that converts HDMI to USB so that it can be used on computers without HDMI ports  | $16.98 |<https://www.amazon.com/Capture-Streaming-Broadcasting-Conference-Teaching/dp/B09FLN63B3/ref=sr_1_3?keywords=hdmi+video+capture&qid=1687198760&sr=8-3> |
+| HDMI Video Capture Card| This is an adapter that connects HDMI to USB | $16.98 |<https://www.amazon.com/Capture-Streaming-Broadcasting-Conference-Teaching/dp/B09FLN63B3/ref=sr_1_3?keywords=hdmi+video+capture&qid=1687198760&sr=8-3> |
 
 |Raspberry Pi 3 Power Supply| This supplies the camera with power via a micro USB port, and connects to a wall outlet|$9.95|<https://www.canakit.com/raspberry-pi-adapter-power-supply-2-5a.html>|
 
