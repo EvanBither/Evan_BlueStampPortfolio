@@ -65,11 +65,6 @@ Here's where you'll put images of your schematics. [Tinkercad](https://www.tinke
 
 
 ```
-system.out.println("Hello");
-```
-
-Main.py
-~~~import cv2
 import sys
 from mail import sendEmail
 from flask import Flask, render_template, Response
@@ -116,13 +111,16 @@ if __name__ == '__main__':
     t = threading.Thread(target=check_for_objects, args=())
     t.daemon = True
     t.start()
-    app.run(host='0.0.0.0', debug=False)~~~
+    app.run(host='0.0.0.0', debug=False)
+```
+
+
 
     
-Mail.py
 
 
-~~~import smtplib
+```
+import smtplib
 from email.MIMEMultipart import MIMEMultipart
 from email.MIMEText import MIMEText
 from email.MIMEImage import MIMEImage
@@ -148,13 +146,13 @@ def sendEmail(image):
 	smtp.starttls()
 	smtp.login(fromEmail, fromEmailPassword)
 	smtp.sendmail(fromEmail, toEmail, msgRoot.as_string())
-	smtp.quit()~~~
+	smtp.quit()
+```
 
 
-camera.py
 
-
-~~~import cv2
+```
+import cv2
 from imutils.video.pivideostream import PiVideoStream
 import imutils
 import time
@@ -191,7 +189,8 @@ class VideoCamera(object):
         for (x, y, w, h) in objects:
             cv2.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 0), 2)
         ret, jpeg = cv2.imencode('.jpg', frame)
-        return (jpeg.tobytes(), found_objects)~~~
+        return (jpeg.tobytes(), found_objects)
+```
 
 
 # Bill of Materials
