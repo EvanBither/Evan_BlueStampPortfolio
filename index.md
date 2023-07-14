@@ -202,15 +202,15 @@ class VideoCamera(object):
 # Bill of Materials
 
 
-|Camera Case for Raspberry Pi zero| This is used as the case that holds the raspberry pi module and the camera|$9.95|<https://www.pishop.us/product/camera-case-for-raspberry-pi-zero-updated-for-v3/>|
+|Camera Case| This is used as the case that holds the raspberry pi module and the camera|$9.95|<https://www.pishop.us/product/camera-case-for-raspberry-pi-zero-updated-for-v3/>|
 
-| Raspberry Pi Camera Module| This captures pictures at 1080p 30fps and relays the information to the raspberry pi control board.| $25| <https://chicagodist.com/products/raspberry-pi-camera?src=raspberrypi>|
+|Camera| This captures pictures at 1080p 30fps and relays the information to the raspberry pi control board.| $25| <https://chicagodist.com/products/raspberry-pi-camera?src=raspberrypi>|
 
-|Rii RKM709 2.4 Gigahertz Ultra-Slim Wireless Keyboard and Mouse Combo|Mouse and Keyboard to program the camera and use my computer|$18.99 |<https://www.amazon.com/Rii-Ultra-slim-Wireless-Multimedia-Raspberry/dp/B07BF3LFN3>|
+|Mouse and Keyboard|Mouse and Keyboard to program the camera and use my computer|$18.99 |<https://www.amazon.com/Rii-Ultra-slim-Wireless-Multimedia-Raspberry/dp/B07BF3LFN3>|
 
-| HDMI Video Capture Card| This is an adapter that connects HDMI to USB | $16.98 |<https://www.amazon.com/Capture-Streaming-Broadcasting-Conference-Teaching/dp/B09FLN63B3/ref=sr_1_3?keywords=hdmi+video+capture&qid=1687198760&sr=8-3> |
+| HDMI Capture Card| This is an adapter that connects HDMI to USB | $16.98 |<https://www.amazon.com/Capture-Streaming-Broadcasting-Conference-Teaching/dp/B09FLN63B3/ref=sr_1_3?keywords=hdmi+video+capture&qid=1687198760&sr=8-3> |
 
-|Raspberry Pi 3 Power Supply| This supplies the camera with power via a micro USB port, and connects to a wall outlet|$9.95|<https://www.canakit.com/raspberry-pi-adapter-power-supply-2-5a.html>|
+|Power Supply| This supplies the camera with power via a micro USB port, and connects to a wall outlet|$9.95|<https://www.canakit.com/raspberry-pi-adapter-power-supply-2-5a.html>|
 
 |HDMI to Mini HDMI Cable|This cable connects the mini HDMI port on the camera box to the HDMI port on the adapter| $7.59 | <https://www.amazon.com/AmazonBasics-High-Speed-Mini-HDMI-Adapter-Cable/dp/B014I8UEGY> |
 
