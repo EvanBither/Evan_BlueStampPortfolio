@@ -201,8 +201,12 @@ class VideoCamera(object):
 
 # Bill of Materials
 
-
-|Camera Case| This is used as the case that holds the raspberry pi module and the camera|$9.95|<https://www.pishop.us/product/camera-case-for-raspberry-pi-zero-updated-for-v3/>|
+| **Part** | **Note** | **Price** | **Link** |
+|:--:|:--:|:--:|:--:|
+| Cam Case  | Case that holds the camera and pi | $10 | <https://www.pishop.us/product/camera-case-for-raspberry-pi-zero-updated-for-v3/> |
+|   Camera  |   Captures video at 1080p 30 fps  | $25 |       <https://chicagodist.com/products/raspberry-pi-camera?src=raspberrypi>      |
+| Keyboard  | Used to operate the raspberry pi  | $19 |<https://www.amazon.com/Rii-Ultra-slim-Wireless-Multimedia-Raspberry/dp/B07BF3LFN3>|
+|Video Card |Connects HDMI for laptop to display| $17 |<https://www.amazon.com/Capture-Streaming-Broadcasting-Conference-Teaching/dp/B09FLN63B3/ref=sr_1_3?keywords=hdmi+video+capture&qid=1687198760&sr=8-3>|
 
 |Camera| This captures pictures at 1080p 30fps and relays the information to the raspberry pi control board.| $25| <https://chicagodist.com/products/raspberry-pi-camera?src=raspberrypi>|
 
