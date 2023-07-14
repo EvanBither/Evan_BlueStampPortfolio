@@ -11,6 +11,8 @@ My project is a digital security camera that records live at 1080p 30fps. It use
   
 # Third Milestone
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPb56sLVS1w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 My third milestone was to complete the smart security camera set up. This milestone included finishing the motion detection system, and the automated email system. The project now detects movement in the direction the camera is pointed, takes a screenshot of the object that the camera decided was moving, and sends the screenshot with a box drawn around the object to my email. 
 
 The biggest challenges I faced when completing this milestone were the many instances of troubleshooting and issues with code and hardware. A lot of small problems branched out and unveiled even larger ones that took lots of time to fix. The raspberry pi's had to be swapped so that the faster ones could help me install updates quicker, but the switching between versions corrupted the SD cards and I had to restart many times. 
@@ -18,10 +20,13 @@ The biggest challenges I faced when completing this milestone were the many inst
 Next, I will be adding my modifications to mr project which are to add audio to the security reports I receive. Instead of a screenshot the pi will send a short video to my email with audio too. This will be close to a ring doorbell camera without the two way audio and video. 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPb56sLVS1w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 
 # Second Milestone
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qga3blWhqeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 For my second milestone, I accomplished video output from my pi camera. This video was livestreamed to a website run on the Raspberry Pi. I could see the live feed on a web browser on my Raspberry Pi. When the code is run, a link to the website is added to the interpreter. On the site, the camera feed is in the top left with the title, "Raspberry Pi Security Feed".
@@ -33,10 +38,11 @@ What has been surprising about the project so far is how many different sources 
 Before my final milestone, I need to create and fix the code that detects the movement, draws a box around the object or person, and sends me an email. After all of that is finished, I need to move it from the raspberry pi 4, to the raspberry pi zero, so that it fits in the camera case and can stand up on its own. 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Qga3blWhqeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 # First Milestone
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9DHfboT22uo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 My first milestone was completing the construction of my main project. I have finished building the security camera and need to plug it into my computer and do the more technical things such as programming it and making sure the camera works. While building the camera, I connected the camera module to the Rasberry Pi controller via a ribbon cable. I assembled the case for the camera, as well as the plastic shielded viewing point that protects the lens and gives the camera a wide enough opening to record. I installed the memory card into the side port of the camera case and made sure that the two micro USB ports and the HDMI port work and can be connected.
 
@@ -57,7 +63,7 @@ My first milestone was completing the construction of my main project. I have fi
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d2xeVi4H5YE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 <!---# Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. -->
