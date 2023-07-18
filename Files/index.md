@@ -208,15 +208,15 @@ class VideoCamera(object):
 | Keyboard  | Used to operate the raspberry pi  | $19 |<https://www.amazon.com/Rii-Ultra-slim-Wireless-Multimedia-Raspberry/dp/B07BF3LFN3>|
 |Video Card |Connects HDMI for laptop to display| $17 |<https://www.amazon.com/Capture-Streaming-Broadcasting-Conference-Teaching/dp/B09FLN63B3/ref=sr_1_3?keywords=hdmi+video+capture&qid=1687198760&sr=8-3>|
 
-|Camera| This captures pictures at 1080p 30fps and relays the information to the raspberry pi control board.| $25| <https://chicagodist.com/products/raspberry-pi-camera?src=raspberrypi>|
+|Camera| This captures pictures at 1080p 30fps and relays the information to the raspberry pi control board.| $25[link](https://chicagodist.com/products/raspberry-pi-camera?src=raspberrypi)|
 
-|Mouse and Keyboard|Mouse and Keyboard to program the camera and use my computer|$18.99 |<https://www.amazon.com/Rii-Ultra-slim-Wireless-Multimedia-Raspberry/dp/B07BF3LFN3>|
+|Mouse and Keyboard|Mouse and Keyboard to program the camera and use my computer|$18.99 |[link](https://www.amazon.com/Rii-Ultra-slim-Wireless-Multimedia-Raspberry/dp/B07BF3LFN3)
 
-| HDMI Capture Card| This is an adapter that connects HDMI to USB | $16.98 |<https://www.amazon.com/Capture-Streaming-Broadcasting-Conference-Teaching/dp/B09FLN63B3/ref=sr_1_3?keywords=hdmi+video+capture&qid=1687198760&sr=8-3> |
+| HDMI Capture Card| This is an adapter that connects HDMI to USB | $16.98 |[link](https://www.amazon.com/Capture-Streaming-Broadcasting-Conference-Teaching/dp/B09FLN63B3/ref=sr_1_3?keywords=hdmi+video+capture&qid=1687198760&sr=8-3) |
 
-|Power Supply| This supplies the camera with power via a micro USB port, and connects to a wall outlet|$9.95|<https://www.canakit.com/raspberry-pi-adapter-power-supply-2-5a.html>|
+|Power Supply| This supplies the camera with power via a micro USB port, and connects to a wall outlet|$9.95|[link](https://www.canakit.com/raspberry-pi-adapter-power-supply-2-5a.html)|
 
-|HDMI to Mini HDMI Cable|This cable connects the mini HDMI port on the camera box to the HDMI port on the adapter| $7.59 | <https://www.amazon.com/AmazonBasics-High-Speed-Mini-HDMI-Adapter-Cable/dp/B014I8UEGY> |
+|HDMI to Mini HDMI Cable|This cable connects the mini HDMI port on the camera box to the HDMI port on the adapter| $7.59 |[link](https://www.amazon.com/AmazonBasics-High-Speed-Mini-HDMI-Adapter-Cable/dp/B014I8UEGY) |
 
 
 <!---# Other Resources/Examples
