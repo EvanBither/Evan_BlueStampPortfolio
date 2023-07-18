@@ -201,21 +201,17 @@ class VideoCamera(object):
 
 # Bill of Materials
 
-
-|Camera Case| This is used as the case that holds the raspberry pi module and the camera|$9.95|<https://www.pishop.us/product/camera-case-for-raspberry-pi-zero-updated-for-v3/>|
-
-|Camera| This captures pictures at 1080p 30fps and relays the information to the raspberry pi control board.| $25| <https://chicagodist.com/products/raspberry-pi-camera?src=raspberrypi>|
-
-|Mouse and Keyboard|Mouse and Keyboard to program the camera and use my computer|$18.99 |<https://www.amazon.com/Rii-Ultra-slim-Wireless-Multimedia-Raspberry/dp/B07BF3LFN3>|
-
-| HDMI Capture Card| This is an adapter that connects HDMI to USB | $16.98 |<https://www.amazon.com/Capture-Streaming-Broadcasting-Conference-Teaching/dp/B09FLN63B3/ref=sr_1_3?keywords=hdmi+video+capture&qid=1687198760&sr=8-3> |
-
-|Power Supply| This supplies the camera with power via a micro USB port, and connects to a wall outlet|$9.95|<https://www.canakit.com/raspberry-pi-adapter-power-supply-2-5a.html>|
-
-|HDMI to Mini HDMI Cable|This cable connects the mini HDMI port on the camera box to the HDMI port on the adapter| $7.59 | <https://www.amazon.com/AmazonBasics-High-Speed-Mini-HDMI-Adapter-Cable/dp/B014I8UEGY> |
+| **Part** | **Note** | **Price** | **Link** |
+|:--:|:--:|:--:|:--:|
+| Cam Case  | Case that holds the camera and pi | $10 |[Link](https://www.pishop.us/product/camera-case-for-raspberry-pi-zero-updated-for-v3/) |
+|   Camera  |   Captures video at 1080p 30 fps  | $25 |[Link](https://chicagodist.com/products/raspberry-pi-camera?src=raspberrypi)|
+| Keyboard  | Used to operate the raspberry pi  | $19 |[Link](https://www.amazon.com/Rii-Ultra-slim-Wireless-Multimedia-Raspberry/dp/B07BF3LFN3)|
+|Video Card |Connects HDMI for laptop to display| $17 |[Link](https://www.amazon.com/Capture-Streaming-Broadcasting-Conference-Teaching/dp/B09FLN63B3/ref=sr_1_3?keywords=hdmi+video+capture&qid=1687198760&sr=8-3)|
 
 
-<!---# Other Resources/Examples
+
+
+<!---# Other Resources/Examplescvcv
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
 - [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
 - [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
