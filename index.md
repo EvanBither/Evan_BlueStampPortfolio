@@ -7,8 +7,8 @@ My project is a digital security camera that records live at 1080p 30fps. It use
 
 <!--**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**-->
 
-(![Evan-Headshot](https://github.com/EvanBither/Evan_BlueStampPortfolio/assets/136493292/2b90556a-e97c-4d81-b776-b112a969d3dd)
-)
+![Evan-Headshot](https://github.com/EvanBither/Evan_BlueStampPortfolio/assets/136493292/2b90556a-e97c-4d81-b776-b112a969d3dd)
+
 
 # Final Milestone/Modifications
 My final milestone was to send my live security feed to a server that could be viewed on any device, at any time, in real-time. Beforehand it could only be viewed on the raspberry pi browser, which was ineffective for a smart security camera system. In addition, it also takes a video of the motion that it is detecting, instead of just a picture. It will take the picture with a box drawn around the moving object, as well as a video that includes all of the movement that happened. Both the picture and the video are sent to my email as soon as they are recorded. 
