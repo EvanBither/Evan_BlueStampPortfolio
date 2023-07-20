@@ -8,6 +8,11 @@ My project is a digital security camera that records live at 1080p 30fps. It use
 <!--**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**-->
 
 <!---![Headstone Image](logo.svg)-->
+
+# Final Milestone/Modifications
+My final milestone was to send my live security feed to a server that could be viewed on any device, at any time, in real-time. Beforehand it could only be viewed on the raspberry pi browser, which was ineffective for a smart security camera system. In addition, it also takes a video of the motion that it is detecting, instead of just a picture. It will take the picture with a box drawn around the moving object, as well as a video that includes all of the movement that happened. Both the picture and the video are sent to my email as soon as they are recorded. 
+
+The biggest challenges I faced when completing my modifications were when I added the video capture to my code, and had to change almost everything I had written. This caused a lot of errors and took me a long time to fix. In addition, the pi camera was not working so I had to swap out the cameras and even try a usb webcam at some point. I had to learn a lot of python functions that I did not know, but at the end of my project, I learned a lot about the programming language and even more about how to troubleshoot and complete intensive creative projects.
   
 # Third Milestone
 
