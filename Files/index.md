@@ -13,11 +13,11 @@ My project is a digital security camera that records live at 1080p 30fps. It use
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tPb56sLVS1w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-My third milestone was to complete the smart security camera set up. This milestone included finishing the motion detection system, and the automated email system. The project now detects movement in the direction the camera is pointed, takes a screenshot of the object that the camera decided was moving, and sends the screenshot with a box drawn around the object to my email. 
+My third milestone was to complete the smart security camera setup. This milestone included finishing the motion detection system and the automated email system. The project now detects movement in the direction the camera is pointed, takes a screenshot of the object that the camera decides is moving, and sends the screenshot with a box drawn around the object to my email. 
 
-The biggest challenges I faced when completing this milestone were the many instances of troubleshooting and issues with code and hardware. A lot of small problems branched out and unveiled even larger ones that took lots of time to fix. The raspberry pi's had to be swapped so that the faster ones could help me install updates quicker, but the switching between versions corrupted the SD cards and I had to restart many times. 
+The biggest challenges I faced when completing this milestone were the many instances of troubleshooting and issues with code and hardware. A lot of small problems branched out and unveiled even larger ones that took lots of time to fix. The Raspberry Pis had to be swapped so that the faster ones could help me install updates quicker, but the switching between versions corrupted the SD cards, and I had to restart many times. 
 
-Next, I will be adding my modifications to mr project which are to add audio to the security reports I receive. Instead of a screenshot the pi will send a short video to my email with audio too. This will be close to a ring doorbell camera without the two way audio and video. 
+Next, I will be adding my modifications to my project, which are to add audio to the security reports I receive. Instead of a screenshot, the pi will send a short video to my email with audio, too. This will be close to a Ring Doorbell camera without the two-way audio and video. 
 
 
 
@@ -29,13 +29,13 @@ Next, I will be adding my modifications to mr project which are to add audio to 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qga3blWhqeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-For my second milestone, I accomplished video output from my pi camera. This video was livestreamed to a website run on the Raspberry Pi. I could see the live feed on a web browser on my Raspberry Pi. When the code is run, a link to the website is added to the interpreter. On the site, the camera feed is in the top left with the title, "Raspberry Pi Security Feed".
+For my second milestone, I accomplished video output from my Pi camera. This video was livestreamed to a website run on the Raspberry Pi. I could see the live feed on a web browser on my Raspberry Pi. When the code is run, a link to the website is added to the interpreter. On the site, the camera feed is in the top left with the title, "Raspberry Pi Security Feed".
 
 
-What has been surprising about the project so far is how many different sources there were for problems, which made troubleshooting incredibly hard. The code has multiple classes, and being foreign to python made diagnosing errors quite hard for me. In addition, the versions of OpenCV and python were incorrect, and needed to be changed in order for the code to work. This took many installations and lots of time. Also, there was hardware that had to be switched, some camera didn't work, and the older rapsberry Pi's couldn't display the website so I had no idea that the camera was working. Unfortunately, drastically switching versions of raspberry pi's lead to corruption in the MicroSD, which meant I had to completely restart a few times.
+What has been surprising about the project so far is how many different sources there were for problems, which made troubleshooting incredibly hard. The code has multiple classes, and being foreign to Python made diagnosing errors quite hard for me. In addition, the versions of OpenCV and Python were incorrect and needed to be changed for the code to work. This took many installations and lots of time. Also, there was hardware that had to be switched, some cameras didn't work, and the older Raspberry Pi's couldn't display the website, so I had no idea that the camera was working. Unfortunately, drastically switching versions of Raspberry Pi's led to corruption in the MicroSD, which meant I had to completely restart a few times.
 
 
-Before my final milestone, I need to create and fix the code that detects the movement, draws a box around the object or person, and sends me an email. After all of that is finished, I need to move it from the raspberry pi 4, to the raspberry pi zero, so that it fits in the camera case and can stand up on its own. 
+Before my final milestone, I need to create and fix the code that detects the movement, draws a box around the object or person, and sends me an email. After all of that is finished, I need to move it from the Raspberry Pi 4 to the Raspberry Pi Zero, so that it fits in the camera case and can stand up on its own. 
 
 
 # First Milestone
@@ -44,22 +44,22 @@ Before my final milestone, I need to create and fix the code that detects the mo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9DHfboT22uo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-My first milestone was completing the construction of my main project. I have finished building the security camera and need to plug it into my computer and do the more technical things such as programming it and making sure the camera works. While building the camera, I connected the camera module to the Rasberry Pi controller via a ribbon cable. I assembled the case for the camera, as well as the plastic shielded viewing point that protects the lens and gives the camera a wide enough opening to record. I installed the memory card into the side port of the camera case and made sure that the two micro USB ports and the HDMI port work and can be connected.
+My first milestone was completing the construction of my main project. I have finished building the security camera and need to plug it into my computer and do the more technical things, such as programming it and making sure the camera works. While building the camera, I connected the camera module to the Raspberry Pi controller via a ribbon cable. I assembled the case for the camera, as well as the plastic shielded viewing point that protects the lens and gives the camera a wide enough opening to record. I installed the memory card into the side port of the camera case and made sure that the two micro USB ports and the HDMI port work and can be connected.
 
-  The challenges I faced were staying organized and figuring out how to assemble the camera. The project came with a lot of extra parts that I didn’t need, and instructions for accessories that did not work with the variation I wanted to build. It was hard to figure out which pieces I needed for the case variation compared to the stand variation for example. 
+The challenges I faced were staying organized and figuring out how to assemble the camera. The project came with a lot of extra parts that I didn’t need, and instructions for accessories that did not work with the variation I wanted to build. It was hard to figure out which pieces I needed for the case variation compared to the stand variation, for example. 
   
-  My plan to complete the project is to make sure that the electrical components in my camera work, by plugging them in and using the software. After that, I will try videoing with the camera and then think of modifications for my project.
+My plan to complete the project is to make sure that the electrical components in my camera work by plugging them in and using the software. After that, I will try videoing with the camera and then think of modifications for my project.
   
  
 
 # Starter Project
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d2xeVi4H5YE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-  My starter project was a digital clock that displays the accurate time, date, and temperature of the room. The clock is powered by a 3-volt battery that allows the internal mechanisms to keep track of the time and date, but the display is powered by a micro-USB cord. The clock sits in a clear box that allows the user to press the two operational buttons that control the display. In order to assemble this project, I needed to solder over 30 components and make sure they were in their correct spots and solder correctly so that there were no electrical shorts. 
+My starter project was a digital clock that displays the accurate time, date, and temperature of the room. The clock is powered by a 3-volt battery that allows the internal mechanisms to keep track of the time and date, but the display is powered by a micro-USB cord. The clock sits in a clear box that allows the user to press the two operational buttons that control the display. To assemble this project, I needed to solder over 30 components and make sure they were in their correct spots and solder correctly so that there were no electrical shorts. 
   
-  While building my project, it took me many attempts to solder every component correctly and get the clock to work as intended. 
+While building my project, it took me many attempts to solder every component correctly and get the clock to work as intended. 
  
-  This project taught me how to solder correctly, and how to de-solder when necessary. I have learned how to stay organized, manage my time efficiently, and when to ask for help.
+This project taught me how to solder correctly and how to desolder when necessary. I have learned how to stay organized, manage my time efficiently, and when to ask for help.
 
 
 
